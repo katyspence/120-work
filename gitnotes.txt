@@ -1,0 +1,15 @@
+git notes.
+order of operations- save file in Atom, git status. when something has been changed, do git add * to update in branch tree. Then do git commit -m "message explaining changes" to commit changes to repository. to view git commit history, use git log.
+to start a new project, git init project name to create new directory
+git designed for team collaboration, people working in sequential fashion and at the same time.
+why'd you have to go and make things so complicateddd
+More notes from Matthew McCullough
+downloading a git installer
+Starting a git project.
+git init project1
+cd project1
+create file1.txt
+git add file1.txt
+add is not premanent, commiting makes it permanent
+git commit -m"my first commit"
+that's recording an event in git 
