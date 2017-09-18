@@ -13,3 +13,4 @@ git add file1.txt
 add is not premanent, commiting makes it permanent
 git commit -m"my first commit"
 that's recording an event in git 
+this is for practice
