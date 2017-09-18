@@ -9,4 +9,6 @@ I added a another new line to this file in my text editor, Atom!!
 
 adding a new line
 
-and another, then deleted one. 
+and another, then deleted one.
+
+makings changes in Atom to see in github desktop
