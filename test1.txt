@@ -1,6 +1,7 @@
 Name: Katy Spence
 Date: Sept. 16, 2017
 
+
 This is my first text document for one of Dr. Musick's Media Arts courses.
 
 That has now been altered. again hah.
@@ -12,3 +13,5 @@ adding a new line
 and another, then deleted one.
 
 makings changes in Atom to see in github desktop
+
+My text editor is Atom. GitHub and SourceTree help me manage changes to  my documents.
