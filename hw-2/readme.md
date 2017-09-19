@@ -18,4 +18,4 @@
 ```md
 5. I don't know if I helped, but I contributed a comment to [this issue about Atom running slow](https://github.com/Montana-Media-Arts/120_CreativeCoding_Fall2017/issues/19) because I've been experiencing the same thing, though to a much lesser degree.
 ```
-![This is a screenshot of my assignment.](./120-screenshot.PNG)
+![This is a screenshot of my assignment.](../120-screenshot.PNG)
