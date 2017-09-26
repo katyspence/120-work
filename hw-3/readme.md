@@ -21,7 +21,7 @@ I'm discovering that my biggest challenge with these lessons and assignments is 
 
 I like keeping up with the forums, though. Even though I haven't had many problems, it does help to know that we have our own store of knowledge in which we can help each other. I always read the email notifications when people ask for help, but there haven't been many I feel like I can contribute to. I echoed some sentiments on some posts, but I didn't have anything great to add. I'll keep watching.
 
-I always seem to have a little bit of trouble adding screenshots to these assignments. I thought I figured it out on the last assignment, but I had trouble with this one, too. The image is showing in my preview screen, but it is not showing on my GitHub page.
+I always seem to have a little bit of trouble adding screenshots to these assignments. I thought I figured it out on the last assignment, but I had trouble with this one, too. The image is showing in my preview screen, but it is not showing on my GitHub page. *I fixed it!*
 
 
 Plus, I am just excited about what we're learning and have to subject my poor boyfriend to hearing me talk about how cool it is to be learning these things.
@@ -32,7 +32,7 @@ Plus, I am just excited about what we're learning and have to subject my poor bo
 - **I coded something!**
 - **It has a green background!!**
 - **It's on the internet!!**
-- **_I'm learning formating!_** (that probably shouldn't have double emphasis)
+- **_I'm learning formatting!_** (that probably shouldn't have double emphasis)
 - ~~I'm basically a computer expert.~~ (no, I'm not.)
 
 #### Conclusions
