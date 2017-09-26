@@ -21,6 +21,9 @@ I'm discovering that my biggest challenge with these lessons and assignments is 
 
 I like keeping up with the forums, though. Even though I haven't had many problems, it does help to know that we have our own store of knowledge in which we can help each other. I always read the email notifications when people ask for help, but there haven't been many I feel like I can contribute to. I echoed some sentiments on some posts, but I didn't have anything great to add. I'll keep watching.
 
+I always seem to have a little bit of trouble adding screenshots to these assignments. I thought I figured it out on the last assignment, but I had trouble with this one, too.
+
+
 Plus, I am just excited about what we're learning and have to subject my poor boyfriend to hearing me talk about how cool it is to be learning these things.
 
 *This sounds like a lame issue, but I've been fortunate in set-up and comprehension of the material so far. I'm having a blast!*
@@ -35,4 +38,4 @@ Plus, I am just excited about what we're learning and have to subject my poor bo
 #### Conclusions
 I was worried that my success last week were a fluke, but I'm still feeling comfortable and excited about the material. I'm looking forward to learning more about making visual things, like the interactive video in the p5 Hello World. That was really cool! I'd love to make an interactive map for a website I'm working on, so I'll be looking forward to opportunities like that.
 
-![Here's my Hello World.](./120-work/hw-3/Capture.PNG)
+![Here's my Hello World.](../../120-work/hw-3/Capture.PNG)
