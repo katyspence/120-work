@@ -34,3 +34,5 @@ Plus, I am just excited about what we're learning and have to subject my poor bo
 
 #### Conclusions
 I was worried that my success last week were a fluke, but I'm still feeling comfortable and excited about the material. I'm looking forward to learning more about making visual things, like the interactive video in the p5 Hello World. That was really cool! I'd love to make an interactive map for a website I'm working on, so I'll be looking forward to opportunities like that.
+
+![Here's my Hello World.](./120-work/hw-3/Capture.PNG)
