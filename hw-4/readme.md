@@ -1,6 +1,6 @@
 Katy Spence, 50
 
-[Self-Portrait](file:///C:/Users/Matt%20&%20Katy/Documents/Schoolwork/120-work/hw-4/index.html)
+[Self-Portrait](https://katyspence.github.io/120-work/hw-4/)
 # Week 4
 Week 4 has been really fun! Tons of new info, which is intimidating, but I feel like I learned so much and didn't have much trouble at all with creating the sketch.
 
