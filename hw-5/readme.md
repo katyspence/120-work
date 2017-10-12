@@ -1,6 +1,6 @@
 Katy Spence, section 50
 
-["Live Animation Sketch"](
+["Live Animation Sketch"](https://katyspence.github.io/120-work/hw-5/)
 
 #### Summary
 This week, I got intimidated by math and rushed to finish. However, I'm proud of what I accomplished.
