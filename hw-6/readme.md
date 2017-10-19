@@ -23,7 +23,7 @@ The biggest issue, though, is my own imagination. I am having such a hard time c
 I ended up with a piece I like a lot. I like the layers the flashing circle can create, and the marching circles that go to their doom (in my mind, at least). I feel comfortable with several of the functions and concepts I used, though there are more I want to keep working on.
 
 #### Future
-I need to start working on understanding more complex expressions, such as PRof. Musik used in his smoth sketch. I think rewatching some videos and finding additional examples will help.
+I need to start working on understanding more complex expressions, such as Prof. Musik used in his smoke sketch. I think rewatching some videos and finding additional examples will help.
 
 
 ![Algorithm Sketch](./Sketch.PNG)
