@@ -1,7 +1,7 @@
 ## Homework 7
 Katy Spence, 50
 
-[Algorithm Sketch](https://katyspence.github.io/120-work/hw-7/)
+[Algorithm Sketch](https://katyspence.github.io/120-work/HW-7/)
 
 ### Part 1- Explaining the Original Code
 
