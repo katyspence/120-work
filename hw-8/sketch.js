@@ -17,12 +17,13 @@ function draw() {
       fill( 0, 140, random(255) );
       ellipse( x, y, circleSize, circleSize );
     }
+  
   }
 
 //this was originally supposed to turn into a button or even a path, but I was getting very frustrated and I didn't leave myself enough time to work on it
   translate(width/2, height/2);
   push();
   fill('black')
-  rect (-25, -30, 50, 70)
+  rect (-25, -30, 50, 60)
   pop();
 }
