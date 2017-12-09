@@ -52,7 +52,7 @@ function draw() {
     //I thought it needed a little more visual interest, so I added the rainbow lines
     push();
     stroke(colors.r, colors.g, colors.b);
-    strokeWeight(1);
+    strokeWeight(1.5);
     line (windowWidth/3, windowHeight/4, objTwo.x, objTwo.y)
     pop();
 
